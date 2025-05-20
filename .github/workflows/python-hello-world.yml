@@ -16,4 +16,4 @@ jobs:
         python-version: 3.x
 
     - name: Run the Python script
-      run: python app.py
+      run: python ap.py
